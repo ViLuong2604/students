@@ -1,0 +1,43 @@
+.right-left {
+    margin: 0;
+    width: 30%;
+    padding-top: 20px;
+
+}
+
+.but button{
+width: 50%;
+height: 25px;
+background-color: #338dbc;
+border: #338dbc;
+border-radius: 5px;
+cursor: pointer;
+}
+.inp{
+    margin: 0;
+    width: 70%;
+    padding-top: 20px;
+}
+.inp input {
+    width:95% ;
+    height: 30px;
+    border: #338dbc;
+    border-radius: 3px;
+}
+
+.but-sp {
+    padding-top: 20px;
+    padding-right: 95px;
+}
+.topic label {
+
+}
+
+.but-sp button {
+    width: 30%;
+    height: 30px;
+    background-color: #338dbc;
+    border: #338dbc;
+    border-radius: 5px;
+   
+}
